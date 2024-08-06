@@ -22,7 +22,7 @@ The main goal is to implement a form that can POST register and login requests, 
 
 Watch the first few minutes of the Module Project Solution Video to get a demo of the finished product.
 
-### 👉 TASK 2 - Study the API using Postman
+### 👉 TASK 2 - Study the API using Postman 
 
 #### Endpoint A: [POST] `http://localhost:3003/api/auth/login`
 
